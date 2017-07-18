@@ -1,5 +1,5 @@
 # Aerial-SvexxLock
-An installer for enabling use of Locking the PC and running the Aerial Screensaver
+An installer for enabling use of Locking the PC and running the Aerial Screensaver.
 I have simply written an executable in c++ and compiled the required files in the installer to allow the user to lock the screen and have the screensaver execute right after.
 Installer compiler credits go to Inno Setup.
 Exe was compiled in CodeBlocks under GNU License http://www.codeblocks.org/

@@ -7,6 +7,8 @@ Icon Credits: Icon made by [Madebyoliver]- http://www.flaticon.com/authors/madeb
 I take no credit for the work John Coates has put in, and he is duly responsible for the beautiful footage provided in this program.
 All rights and credit go to him. Link below:
 https://github.com/JohnCoates/Aerial
+This Windows version is based on the scr provided by cDima. Respective credits go to him. Link below:
+https://github.com/cDima/Aerial
 
 This program will not be used, shared or distributed for profit. 
 Enjoy
